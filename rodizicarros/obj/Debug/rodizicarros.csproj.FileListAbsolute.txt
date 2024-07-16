@@ -1,0 +1,16 @@
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.csprojResolveAssemblyReference.cache
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.MainForm.resources
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.csproj.GenerateResource.Cache
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\bin\Debug\rodizicarros.exe.config
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\bin\Debug\rodizicarros.exe
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\bin\Debug\rodizicarros.pdb
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.exe
+D:\projetosPA\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.pdb
+D:\rodiziocarros\rodizicarros\rodizicarros\bin\Debug\rodizicarros.exe.config
+D:\rodiziocarros\rodizicarros\rodizicarros\bin\Debug\rodizicarros.exe
+D:\rodiziocarros\rodizicarros\rodizicarros\bin\Debug\rodizicarros.pdb
+D:\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.csprojResolveAssemblyReference.cache
+D:\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.MainForm.resources
+D:\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.csproj.GenerateResource.Cache
+D:\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.exe
+D:\rodiziocarros\rodizicarros\rodizicarros\obj\Debug\rodizicarros.pdb
